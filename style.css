@@ -1,0 +1,19 @@
+body{font-family: 'Kantumruy Pro', sans-serif;}
+
+h1{font-size: 50px;}
+.blue-color{color: rgb(87, 197, 234);}
+
+.half-width{width: 50%;
+    padding-left: 2%;}
+   .half-width img{width: 80%;}   /*<=facing problem in this line */
+
+section{display: flex;}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(skyblue ,blue);
+    padding: 10px  40px;
+    border-radius: 20px;
+    color: rgb(19, 1, 1);
+    font-weight: 700;
+    
+}
