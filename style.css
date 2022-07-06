@@ -41,3 +41,25 @@ margin-bottom: 150px;
 .orange-color{color: tomato;}
 
 .about-me-des{padding-right: 100px;}
+
+.experiences-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px gray;
+
+
+
+    
+}
+.experiences-item img{width: 105%;}
+
+.my-recipies{text-align: center;
+padding-bottom: 70px;}
+
+.my-recipies-des{
+    padding-left: 10%;
+    padding-right: 10%;
+}
